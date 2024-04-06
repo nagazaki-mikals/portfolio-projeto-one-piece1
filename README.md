@@ -1,2 +1,3 @@
 # portfolio-projeto-one-piece1
- Material do Projeto One Piece
+ 
+Projeto feito usando HTML, CSS e JavaScript
